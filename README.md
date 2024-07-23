@@ -16,6 +16,7 @@ _**to run the code::**_
 1. ipython  
 2. run /path/to/poisoned-rift.py
 
+~ code can take up to 5 minutes to run due to the computing 
 
 
 

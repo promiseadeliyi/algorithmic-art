@@ -5,6 +5,9 @@ A collection of some of my art made both during-the-course (Algorithmic Art) and
 
 ## poisoned-rift.py
 
+<img width="447" alt="Screenshot 2025-02-08 at 11 29 49 PM" src="https://github.com/user-attachments/assets/75f4578f-48d1-46f0-aa91-71e6ba84f188" />
+
+
  This script creates a simulation using Poisson's equation on a 2D grid with a specific charge distribution. The resulting field then visually represents "mountains" and "rifts". 
 
 _**to get started::**_  
